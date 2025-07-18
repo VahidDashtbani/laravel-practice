@@ -29,4 +29,5 @@ A simple Laravel project demonstrating basic **CRUD (Create, Read, Update, Delet
 ```bash
 git clone https://github.com/VahidDashtbani/laravel-practice
 cd laravel-practice
+php artisan migrate
 php artisan serve
