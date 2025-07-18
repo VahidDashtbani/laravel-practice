@@ -14,8 +14,8 @@ A simple Laravel project demonstrating basic **CRUD (Create, Read, Update, Delet
 ## 🛠️ Tech Stack
 
 - Laravel 10.x
-- PHP 8.x
-- MySQL / SQLite
+- PHP 8.2
+- MySQL
 - Composer
 - Bootstrap (optional)
 - Laravel Breeze (optional for auth)
@@ -29,3 +29,4 @@ A simple Laravel project demonstrating basic **CRUD (Create, Read, Update, Delet
 ```bash
 git clone https://github.com/VahidDashtbani/laravel-practice
 cd laravel-practice
+php artisan serve
